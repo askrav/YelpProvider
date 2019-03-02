@@ -4,5 +4,5 @@
 /*.xcodeproj
 Package.pins
 Package.resolved
-/Sources/YelpProvder/Launch
-/Sources/YelpProvder/main.swift
+Sources/YelpProvder/main.swift
+Sources/YelpProvider/Launch
